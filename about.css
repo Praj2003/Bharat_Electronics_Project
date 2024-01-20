@@ -1,0 +1,61 @@
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+ 
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+  }
+  
+  section {
+    padding: 2rem;
+  }
+  
+  section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  
+  #intro {
+    background-color: #f4f4f4;
+  }
+  
+  #story {
+    background-color: #e1e1e1;
+  }
+  
+  #mission {
+    background-color: #d4d4d4;
+  }
+  
+  #values {
+    background-color: #c1c1c1;
+  }
+  
+  #team {
+    background-color: #b0b0b0;
+  }
+  
+  
